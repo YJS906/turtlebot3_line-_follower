@@ -1,2 +1,4 @@
 ## Demo (YouTube Shorts)
-[![Demo Video](https://img.youtube.com/vi/grw7qH93KJ0/0.jpg)](https://youtube.com/shorts/grw7qH93KJ0)
+<a href="https://youtube.com/shorts/grw7qH93KJ0">
+  <img src="https://img.youtube.com/vi/grw7qH93KJ0/maxresdefault.jpg" width="800">
+</a>
